@@ -5096,3 +5096,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.14-21.06.43:809][432]LogSavePackage: Moving 'C:/Users/zeitg/Documents/GitHub/DRT_ElevatorWorldVR/Saved/12_WestChester_Ave1C68509094309BBCDB14E809FDEE501A9.tmp' to 'C:/Users/zeitg/Documents/GitHub/DRT_ElevatorWorldVR/Content/VirtualRealityBP/Maps/12_WestChester_Ave1.umap'
 [2021.06.14-21.06.43:827][432]AssetCheck: New page: Asset Save: 12_WestChester_Ave1
 [2021.06.14-21.06.43:827][432]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/12_WestChester_Ave1.12_WestChester_Ave1
+[2021.06.14-21.08.53:201][928]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2021.06.14-21.08.55:341][181]Cmd: TRANSACTION UNDO
+[2021.06.14-21.08.55:341][181]LogEditorTransaction: Undo Move Actors
+[2021.06.14-21.08.58:947][554]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.06.14-21.09.08:051][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.14-21.09.08:064][587]LogSavePackage: Moving 'C:/Users/zeitg/Documents/GitHub/DRT_ElevatorWorldVR/Saved/12_WestChester_Ave18D2BFFB149AFBD3BACABF8B8D6F655A0.tmp' to 'C:/Users/zeitg/Documents/GitHub/DRT_ElevatorWorldVR/Content/VirtualRealityBP/Maps/12_WestChester_Ave1.umap'
+[2021.06.14-21.09.08:077][587]AssetCheck: New page: Asset Save: 12_WestChester_Ave1
+[2021.06.14-21.09.08:077][587]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/12_WestChester_Ave1.12_WestChester_Ave1
